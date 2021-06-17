@@ -5,6 +5,6 @@
 - 📫 How to reach me in my WhatsApp number: 🇧🇷 +5511952116994 or my Email: 📧 b2tg@outlook.com
 
 <!---
-SCaetano77/SCaetano77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SCaetano77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
